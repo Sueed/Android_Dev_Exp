@@ -1,0 +1,1 @@
+.externalNativeBuild /captures /.idea/libraries /.idea/workspace.xml /local.properties app/src/test app/src/androidTest app/proguard-rules.pro app/*.iml app/libs/ app/build/ local.properties .idea/ .grade/ build/ .gitignore.swp *.iml 
