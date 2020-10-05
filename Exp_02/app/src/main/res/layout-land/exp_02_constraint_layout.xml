@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/constraintLayout"
+        android:layout_width="100dp"
+        android:layout_height="94dp"
+        android:background="@color/colorRed"
+        android:gravity="center"
+        android:text="RED"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.027"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.051" />
+
+    <TextView
+        android:id="@+id/constraintLayout2"
+        android:layout_width="96dp"
+        android:layout_height="91dp"
+        android:background="@color/colorYellow"
+        android:gravity="center"
+        android:text="YELLOW"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.972"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.052" />
+
+    <TextView
+        android:id="@+id/constraintLayout3"
+        android:layout_width="167dp"
+        android:layout_height="94dp"
+        android:layout_marginTop="12dp"
+        android:background="@color/colorOrange"
+        android:gravity="center"
+        android:text="ORANGE"
+        app:layout_constraintEnd_toStartOf="@+id/constraintLayout2"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toEndOf="@+id/constraintLayout"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/constraintLayout4"
+        android:layout_width="135dp"
+        android:layout_height="100dp"
+        android:background="@color/colorBlue"
+        android:gravity="center"
+        android:text="BLUE"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout7"
+        app:layout_constraintEnd_toStartOf="@+id/constraintLayout6"
+        app:layout_constraintStart_toEndOf="@+id/constraintLayout5"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout3"
+        app:layout_constraintVertical_bias="0.504" />
+
+    <TextView
+        android:id="@+id/constraintLayout5"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/colorGreen"
+        android:gravity="center"
+        android:text="GREEN"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout7"
+        app:layout_constraintEnd_toStartOf="@+id/constraintLayout3"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout3"
+        app:layout_constraintVertical_bias="0.504" />
+
+    <TextView
+        android:id="@+id/constraintLayout6"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="172dp"
+        android:background="@color/colorIndigo"
+        android:gravity="center"
+        android:text="INDIGO"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/constraintLayout3"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout3"
+        app:layout_constraintVertical_bias="0.504" />
+
+    <TextView
+        android:id="@+id/constraintLayout7"
+        android:layout_width="694dp"
+        android:layout_height="86dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/colorViolet"
+        android:gravity="center"
+        android:text="VIOLET"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.459"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

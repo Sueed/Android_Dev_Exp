@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Exp_02</string>
+    <string name="one_two">one_two</string>
+    <string name="one_four">one_four</string>
+    <string name="one_three">one_three</string>
+    <string name="one_one">one_one</string>
 </resources>
