@@ -1,10 +1,10 @@
 ## Exp_01 Android开发基础
 
-- 安装Android Studio【官网下载】
+- #### 安装Android Studio【官网下载】
 
-- 创建Android工程同步至Github
+- #### 创建Android工程同步至Github
 
-  - 利用Git Bash命令行进行同步
+  - ##### 利用Git Bash命令行进行同步
 
     - 在目标文件夹下执行git init创建本地仓库【若已创建过，再次git init会初始化仓库】
 
@@ -22,9 +22,9 @@
 
       ![avatar](https://i.ibb.co/wLvFHLs/01-3.png)
 
-  - 利用Git Gui 图形界面进行同步操作【仅做了解，主要还是使用Git Bash操作】
+    
+
+  - ##### 利用Git Gui 图形界面进行同步操作【仅做了解，主要还是使用Git Bash操作】
 
     - https://juejin.im/post/6844904101608701959
-
-  - 
 
