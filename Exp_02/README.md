@@ -151,7 +151,7 @@
 
 - 为方便进行测试，本实验还利用Button响应OnClick事件通过Intent进行Acitivity之间的跳转
 
-  【线性布局中点击Three_one处跳转至约束布局，约束布局中额外增设了ID为Next的Button跳转至表格布局处】
+  【线性布局中点击Three_one处跳转至约束布局，约束布局中增设了ID为Next的Button跳转至表格布局处】
 
 - 本实验已有打包app-debug.apk 已上传至云盘
 
