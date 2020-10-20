@@ -82,7 +82,7 @@
 
 - #### 实验结果如下图：
 
-- <img src="https://i.ibb.co/8NDBmvs/03-1.png" alt="avatar" style="zoom:50%;" />
+- <img src="https://i.ibb.co/8NDBmvs/03-1.png" alt="avatar" style="zoom:20%;" />
 
 ### 2.自定义布局的AlertDialog
 
@@ -139,7 +139,7 @@
 
 - #### 实验结果如下图：
 
-- <img src="https://i.ibb.co/52SFCfj/03-2.png" alt="avatar" style="zoom:50%;" />
+- <img src="https://i.ibb.co/52SFCfj/03-2.png" alt="avatar" style="zoom:20%;" />
 
 ### 3.使用XML定义菜单
 
@@ -180,7 +180,7 @@
 
 - #### 实验结果如下图：
 
-- <img src="https://i.ibb.co/71cBQmt/03-3.png" alt="avatar" style="zoom:50%;" />
+- <img src="https://i.ibb.co/71cBQmt/03-3.png" alt="avatar" style="zoom:20%;" />
 
 ### 4.ActionMode的上下文菜单
 
@@ -228,7 +228,7 @@
 
 - #### 实验结果如下图：
 
-- <img src="https://i.ibb.co/5vkCL6H/03-4.png" alt="avatar" style="zoom:50%;" />
+- <img src="https://i.ibb.co/5vkCL6H/03-4.png" alt="avatar" style="zoom:20%;" />
 
 ### 5.补充拓展
 
