@@ -6,79 +6,44 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b006c80c-015b-4c9b-83fe-f267bff49652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/androidTest/java/com/sueed/exp_04_1/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/java/com/sueed/exp_04_1/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/app/src/test/java/com/sueed/exp_04_1/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_1/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/androidTest/java/com/sueed/exp_04_2/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/java/com/sueed/exp_04_2/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/app/src/test/java/com/sueed/exp_04_2/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exp_04_2/settings.gradle" afterDir="false" />
+    <list default="true" id="4ea4c901-d605-493c-8592-a7a042372430" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exp_04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/androidTest/java/com/sueed/exp_04/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/java/com/sueed/exp_04/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/app/src/test/java/com/sueed/exp_04/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exp_04/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,17 +63,29 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1jRzetFFGjItXlE2k7LtgpvFnlB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1iUrpSq9qkG4Sw4KkbSlvQ7KSW5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -121,7 +98,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -178,12 +155,49 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b006c80c-015b-4c9b-83fe-f267bff49652" name="Default Changelist" comment="" />
-      <created>1603781790164</created>
+      <changelist id="4ea4c901-d605-493c-8592-a7a042372430" name="Default Changelist" comment="" />
+      <created>1601973193640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603781790164</updated>
+      <updated>1601973193640</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1602504423723">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="490" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1368.912@0.0.1368.912" timestamp="1602504423723" />
+    <state x="329" y="239" width="838" height="485" key="AndroidCreateResourceFileDialog" timestamp="1602505237985">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="329" y="239" width="838" height="485" key="AndroidCreateResourceFileDialog/0.0.1368.912@0.0.1368.912" timestamp="1602505237985" />
+    <state width="1324" height="239" key="GridCell.Tab.0.bottom" timestamp="1602502995501">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1602502995501" />
+    <state width="1324" height="239" key="GridCell.Tab.0.center" timestamp="1602502995501">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1602502995501" />
+    <state width="1324" height="239" key="GridCell.Tab.0.left" timestamp="1602502995501">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1602502995501" />
+    <state width="1324" height="239" key="GridCell.Tab.0.right" timestamp="1602502995501">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1324" height="239" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1602502995501" />
+    <state x="395" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1603778573054">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="395" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.912@0.0.1368.912" timestamp="1603778573054" />
+    <state x="340" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1603069210262">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="340" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1368.912@0.0.1368.912" timestamp="1603069210262" />
   </component>
 </project>
