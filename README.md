@@ -5,3 +5,4 @@
 * Exp_02——Android 界面布局 
 * Exp_03——Android  UI组件
 * Exp_04——Android  Intent
+* Exp_Midterm——Android NotePad笔记本应用
