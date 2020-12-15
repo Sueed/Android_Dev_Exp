@@ -1,4 +1,4 @@
-# Exp_04 Android Intent
+Exp_04 Android Intent
 
 ### 1. 自定义WebView验证隐式Intent的使用
 
@@ -109,9 +109,10 @@
 
 - #### 实验结果如下图：
 
-- <img src="https://i.ibb.co/8dsLX5w/04-1.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/8dsLX5w/04-1.png" alt="avatar" style="zoom:50%;  width:750px" />
 
-- <img src="https://i.ibb.co/8z9YMFW/04-2.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/8z9YMFW/04-2.png" alt="avatar" style="zoom:50%; width:750px" />
+
 
 ### 2.参考资料
 
