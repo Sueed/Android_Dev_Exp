@@ -401,20 +401,22 @@
   
   图18： 选择提醒日期
   
-  <img src="https://i.ibb.co/kG3JF3M/Midterm-17.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/NtdZy7q/Midterm-18.png" alt="avatar" style="width:250px" />
+  <img src="https://i.ibb.co/kG3JF3M/Midterm-17.png" width='250px' alt='17'/><img src="https://i.ibb.co/NtdZy7q/Midterm-18.png" width='250px' alt='18' />
   
   图19：选择提醒时间【钟表盘（小时）】
   
   图20：选择提醒时间【钟表盘（分钟）】       
   
-  <img src="https://i.ibb.co/zxXJyRx/Midterm-19.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/NWXYSG0/Midterm-20.png" alt="avatar" style="width:250px" />
+  <img src="https://i.ibb.co/zxXJyRx/Midterm-19.png" width='250px' alt='19'/><img src="https://i.ibb.co/NWXYSG0/Midterm-20.png" width='250px' alt='20'/>
   
   图21： 选择完后的效果                            
   
   图22： 计划编辑完后保存的效果
   
-  <img src="https://i.ibb.co/DfrPK1m/Midterm-21.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/fvBTqNC/Midterm-22.png" alt="avatar" style="width:250px" />
+  <img src="https://i.ibb.co/DfrPK1m/Midterm-21.png" width='250px' alt='21'/><img src="https://i.ibb.co/fvBTqNC/Midterm-22.png" width='250px' alt='22'/>
   
-  23 选择提示时间左下角换输入模式 24 通过小键盘输入设置提醒时间
+  图23： 选择提示时间左下角换输入模式 
   
-  <img src="https://i.ibb.co/PDRfz4f/Midterm-23.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/Rc9bMht/Midterm-24.png" alt="avatar" style="width:250px" />
+  图24： 通过小键盘输入设置提醒时间
+  
+  <img src="https://i.ibb.co/PDRfz4f/Midterm-23.png" width='250px' alt='23'/><img src="https://i.ibb.co/Rc9bMht/Midterm-24.png" width='250px' alt='24'/>
