@@ -36,7 +36,7 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/Ws0Y3Hg/Midterm-01.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/THdKxkq/Midterm-02.png" alt="avatar" style="width:250px" />
+  <img src="https://i.ibb.co/Ws0Y3Hg/Midterm-01.png" alt="avatar" width:250px /><img src="https://i.ibb.co/THdKxkq/Midterm-02.png" alt="avatar" width:250px />
 
 
 ### 2.添加笔记查询功能（根据标题查询）
