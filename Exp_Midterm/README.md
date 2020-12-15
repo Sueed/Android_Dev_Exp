@@ -36,7 +36,9 @@
 
   #### 实验截图：
   
-  01 原始数据加载                                02 新增笔记中显示当前时间戳
+  图01： 原始数据加载                                
+  
+  图02： 新增笔记中显示当前时间戳
   
   <img src="https://i.ibb.co/Ws0Y3Hg/Midterm-01.png" width='250px' alt='01'><img src="https://i.ibb.co/THdKxkq/Midterm-02.png" width="250px">
 
@@ -102,7 +104,9 @@
 
   #### 实验截图：
   
-  03 点击右上角搜索icon显示输入框   04 实时根据搜索词进行筛选显示
+  图03： 点击右上角搜索icon显示输入框  
+  
+  图04： 实时根据搜索词进行筛选显示
   
   <img src="https://i.ibb.co/LQ3b82h/Midterm-03.png" width='250px' alt='03'/><img src="https://i.ibb.co/z7Hs3vZ/Midterm-04.png" width='250px' alt='04' />
 
@@ -159,13 +163,17 @@
 
   #### 实验截图：
   
-  05 黑夜模式                                        06  白天模式
+  图05： 黑夜模式                                        
+  
+  图06： 白天模式
   
   <img src="https://i.ibb.co/Cv9J3xx/Midterm-05.png" width='250px' alt='05'/><img src="https://i.ibb.co/6ZtKBLY/Midterm-06.png" width='250px' alt='06'/>
   
-  07 修改漂浮按钮的颜色样式			 08 修改颜色且切换成白天模式后的效果
+  图07： 修改漂浮按钮的颜色样式			 
   
-  <img src="https://i.ibb.co/ZLnhz9x/Midterm-07.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/nkWM9NZ/Midterm-08.png" alt="avatar" style="width:250px" />
+  图08： 修改颜色且切换成白天模式后的效果
+  
+  <img src="https://i.ibb.co/ZLnhz9x/Midterm-07.png" width='250px' alt='07'/><img src="https://i.ibb.co/nkWM9NZ/Midterm-08.png" width='250px' alt='08'/>
 
 
 ### 2.  按时间正序或倒序排列笔记/计划，长按删除
@@ -220,11 +228,15 @@
 
   #### 实验截图：
   
-  09 开启按时间倒序排列                     10 倒序排列后的效果
+  图09： 开启按时间倒序排列                     
+  
+  图10： 倒序排列后的效果
   
   <img src="https://i.ibb.co/2nwnk1n/Midterm-09.png" width='250px' alt='09'/><img src="https://i.ibb.co/5X3CBsw/Midterm-10.png" width='250px' alt='10'/>
   
-  11 长按单项显示删除单个                 12 按右上角删除icon显示删除全部
+  图11： 长按单项显示删除单个                 
+  
+  图12： 按右上角删除icon显示删除全部
   
   <img src="https://i.ibb.co/fMG9L7z/Midterm-11.png" width='250px' alt='11'/><img src="https://i.ibb.co/BTVbmCT/Midterm-12.png" width='250px' alt='12'/>
 
@@ -281,11 +293,15 @@
 
   #### 实验截图：
   
-  13 左菜单显示统计对应tag的笔记数 14 点击add new tag 输入自定义tag名称
+  图13：左菜单显示统计对应tag的笔记数 
+  
+  图14：点击add new tag 输入自定义tag名称
   
   <img src="https://i.ibb.co/KhfYGfm/Midterm-13.png" width='250px' alt='13'/><img src="https://i.ibb.co/C9qbcbH/Midterm-14.png" width='250px' alt='14'/> 
   
-  15 新增’new tag‘已显示                     16 点击life标签项只显示该标签下的笔记
+  图15：新增’new tag‘已显示                     
+  
+  图16：点击life标签项只显示该标签下的笔记
   
   <img src="https://i.ibb.co/0CcCykp/Midterm-15.png" width='250px' alt='15'/><img src="https://i.ibb.co/pxJRSpf/Midterm-16.png" width='250px' alt='16'/>
 
@@ -381,15 +397,21 @@
 
   #### 实验截图：
   
-  17 新建计划                                        18 选择提醒日期
+  图17： 新建计划                                        
+  
+  图18： 选择提醒日期
   
   <img src="https://i.ibb.co/kG3JF3M/Midterm-17.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/NtdZy7q/Midterm-18.png" alt="avatar" style="width:250px" />
   
-  19 选择提醒时间【钟表盘（小时）】20 选择提醒时间【钟表盘（分钟）】       
+  图19：选择提醒时间【钟表盘（小时）】
+  
+  图20：选择提醒时间【钟表盘（分钟）】       
   
   <img src="https://i.ibb.co/zxXJyRx/Midterm-19.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/NWXYSG0/Midterm-20.png" alt="avatar" style="width:250px" />
   
-  21 选择完后的效果                            22 计划编辑完后保存的效果
+  图21： 选择完后的效果                            
+  
+  图22： 计划编辑完后保存的效果
   
   <img src="https://i.ibb.co/DfrPK1m/Midterm-21.png" alt="avatar" style="width:250px" /><img src="https://i.ibb.co/fvBTqNC/Midterm-22.png" alt="avatar" style="width:250px" />
   
