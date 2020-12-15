@@ -36,7 +36,7 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/Ws0Y3Hg/Midterm-01.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/THdKxkq/Midterm-02.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/Ws0Y3Hg/Midterm-01.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/THdKxkq/Midterm-02.png" alt="avatar" style="zoom:50%; width:750px" />
 
 
 ### 2.添加笔记查询功能（根据标题查询）
@@ -101,7 +101,7 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/LQ3b82h/Midterm-03.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/z7Hs3vZ/Midterm-04.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/LQ3b82h/Midterm-03.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/z7Hs3vZ/Midterm-04.png" alt="avatar" style="zoom:50%; width:750px" />
 
 ## ②附加功能：
 
@@ -156,9 +156,9 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/Cv9J3xx/Midterm-05.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/6ZtKBLY/Midterm-06.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/Cv9J3xx/Midterm-05.png" alt="avatar" style="zoom:50%;  width:750px" /><img src="https://i.ibb.co/6ZtKBLY/Midterm-06.png" alt="avatar" style="zoom:50%;  width:750px" />
   
-  <img src="https://i.ibb.co/ZLnhz9x/Midterm-07.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/nkWM9NZ/Midterm-08.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/ZLnhz9x/Midterm-07.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/nkWM9NZ/Midterm-08.png" alt="avatar" style="zoom:50%; width:750px" />
 
 
 ### 2.  按时间正序或倒序排列笔记/计划，长按删除
@@ -213,9 +213,9 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/2nwnk1n/Midterm-09.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/5X3CBsw/Midterm-10.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/2nwnk1n/Midterm-09.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/5X3CBsw/Midterm-10.png" alt="avatar" style="zoom:50%; width:750px" />
   
-  <img src="https://i.ibb.co/fMG9L7z/Midterm-11.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/BTVbmCT/Midterm-12.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/fMG9L7z/Midterm-11.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/BTVbmCT/Midterm-12.png" alt="avatar" style="zoom:50%; width:750px" />
 
 
 ### 3. 笔记标签分类，可自定义新标签，按标签分类统计/查询
@@ -270,9 +270,9 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/KhfYGfm/Midterm-13.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/C9qbcbH/Midterm-14.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/KhfYGfm/Midterm-13.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/C9qbcbH/Midterm-14.png" alt="avatar" style="zoom:50%; width:750px" />
   
-  <img src="https://i.ibb.co/0CcCykp/Midterm-15.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/pxJRSpf/Midterm-16.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/0CcCykp/Midterm-15.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/pxJRSpf/Midterm-16.png" alt="avatar" style="zoom:50%; width:750px" />
 
 
 ### 4. 新增计划类型plan，设置定时触发Alarm提醒
@@ -366,10 +366,10 @@
 
   #### 实验截图：
   
-  <img src="https://i.ibb.co/kG3JF3M/Midterm-17.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/NtdZy7q/Midterm-18.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/kG3JF3M/Midterm-17.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/NtdZy7q/Midterm-18.png" alt="avatar" style="zoom:50%; width:750px" />
   
-  <img src="https://i.ibb.co/zxXJyRx/Midterm-19.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/NWXYSG0/Midterm-20.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/zxXJyRx/Midterm-19.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/NWXYSG0/Midterm-20.png" alt="avatar" style="zoom:50%; width:750px" />
   
-  <img src="https://i.ibb.co/DfrPK1m/Midterm-21.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/fvBTqNC/Midterm-22.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/DfrPK1m/Midterm-21.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/fvBTqNC/Midterm-22.png" alt="avatar" style="zoom:50%; width:750px" />
   
-  <img src="https://i.ibb.co/PDRfz4f/Midterm-23.png" alt="avatar" style="zoom:50%;" /><img src="https://i.ibb.co/Rc9bMht/Midterm-24.png" alt="avatar" style="zoom:50%;" />
+  <img src="https://i.ibb.co/PDRfz4f/Midterm-23.png" alt="avatar" style="zoom:50%; width:750px" /><img src="https://i.ibb.co/Rc9bMht/Midterm-24.png" alt="avatar" style="zoom:50%; width:750px" />
