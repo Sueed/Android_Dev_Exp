@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.sueed.exp_mid">
+
+    <application
+        android:theme="@style/DayTheme"
+        android:allowBackup="true"
+        android:icon="@mipmap/piggy_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/piggy_launcher_round"
+        android:supportsRtl="true"
+        >
+
+        <activity android:name=".MainActivity"
+            tools:ignore="Instantiatable">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".EditActivity"
+            tools:ignore="Instantiatable">
+
+        </activity>
+        <activity
+            android:name=".Setting.FabColorActivity"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".UserSettingsActivity"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".Alarm.EditAlarmActivity"
+            tools:ignore="Instantiatable" />
+
+        <receiver android:name=".Alarm.AlarmReceiver" />
+    </application>
+</manifest>
